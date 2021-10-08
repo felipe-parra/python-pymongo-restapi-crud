@@ -4,7 +4,7 @@ This is a example of a Python application providing a REST API of Users.
 <br />
 <p align="center">
   <a href="https://github.com/felipe-parra/python-pymongo-restapi-crud/">
-    <img src="src/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/images/logo.png" alt="Logo" width="auto" height="80">
   </a>
 
   <h3 align="center">Users API</h3>
